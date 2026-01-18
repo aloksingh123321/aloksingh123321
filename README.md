@@ -16,10 +16,12 @@ Nice meeting you, I'm **Alok Kumar Singh**!
 
 ### 🌐 Socials:
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">
+<a href="www.linkedin.com/in/
+alok-kumar-singh-76ab99381
+">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://instagram.com/YOUR-INSTAGRAM-ID">
+<a href="https://instagram.com/_alok_sIngh
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="mailto:aloksingh123c@gmail.com">
